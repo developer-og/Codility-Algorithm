@@ -1,2 +1,2 @@
 # Codility-Algorithm
-developer-og/Codility-Algorithm
+og-eun/Codility-Algorithm
